@@ -1,2 +1,2 @@
-# Anti-Bot-Captcha-Solver
-Cloud flare Tick captcha solution
+# Cloudflare's Tick Captcha Solution.
+Bot Detective vs Automation: Overcoming Tick Captcha Challenges
